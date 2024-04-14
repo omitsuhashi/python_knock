@@ -8,6 +8,7 @@ ibis-framework = {extras = ["duckdb"], version = "*"}
 altair = "*"
 
 [dev-packages]
+notebook = "*"
 
 [requires]
 python_version = "3.12"
